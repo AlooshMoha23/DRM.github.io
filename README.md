@@ -12,3 +12,5 @@ Method 2: Providing the encrypted file (using Widevine) and utilizing our own im
 Conclusion
 
 This OTT platform project significantly enhances content security by implementing Widevine DRM, a robust digital rights management system. Widevine DRM protects copyrighted video content from unauthorized access, distribution, and modification, ensuring content integrity and access control.
+
+platform url: https://alooshmoha23.github.io/DRM.github.io/
